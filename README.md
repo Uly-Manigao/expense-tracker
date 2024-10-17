@@ -2,7 +2,7 @@
 
 This template should help get you started developing with Vue 3 in Vite.
 
-FIRST VERSION OF THE CODE: https://expense-tracker-ulymanigaos-projects.vercel.app/
+TO USE THE PROJECT: https://expense-tracker-ulymanigaos-projects.vercel.app/
 
 ## Recommended IDE Setup
 
